@@ -1,5 +1,5 @@
 # Список ответов на вопросы (также в /src имеется код задач)
-## Сотри [вики](https://github.com/idol696/JavaWiki/wiki) проекта
+## Смотри [вики](https://github.com/idol696/JavaWiki/wiki) проекта
 ## Java Core
 
 ### 1. Какие есть типы данных в Java?
